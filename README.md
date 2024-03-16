@@ -6,7 +6,7 @@ This application allow you, as a user to enter a city name (and be gently helped
 
 What we learn from creating it?
 - Create GET requests
-- Getting data from an API
+- Getting data from an API: there are gaps instead of the API keys in the presented code; please feel free to create an account on the websites mentioned in order to get personal API keys and replace the gaps with them accordingly for the app to be fully functional
 - Working with JSON
 
 There is a `<div id="root">` tag without children when the page loads in. All the contents are placed and removed by javascript.
